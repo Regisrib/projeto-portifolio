@@ -37,6 +37,9 @@
   padding: 10px;
   display: flex;
   justify-content: flex-end;
+  position: static;
+  top: 0;
+  z-index: 1;
  }
 
  nav#menu ul {
